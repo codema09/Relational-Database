@@ -1,5 +1,5 @@
-// Name-Shivang Agrawal
-// Roll No.-21CS30048
+//Name-Hrushikesh Reddy
+//Roll number-21CS30028
 #include "rdb.h"
 // Printing Instructions according to which action will be performed
 void instructions()
