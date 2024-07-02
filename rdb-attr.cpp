@@ -1,5 +1,5 @@
 //Name-Hrushikesh Reddy
-//Roll nu,ber-21CS30028
+//Roll number-21CS30028
 #include "rdb.h"
 //Taking the input of type
 string take_type()
