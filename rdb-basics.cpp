@@ -1,5 +1,5 @@
-//Name-Shivang Agrawal
-//Roll No.-21CS30048
+//Name-Hrushikesh Reddy
+//Roll number-21CS30028
 #include "rdb.h"
 //Checking schema is same or not
 int check_attributes(Relation *R1, Relation *R2)
