@@ -22,7 +22,7 @@ This C++ console application simulates a relational database engine.
 ### Build Instructions
 1. Get the code:
     ```bash
-    git clone https://github.com/agrawalshivang/Relational-Database
+    git clone https://github.com/codema09/Relational-Database.git
     ```
 2. Compile the code:
     ```bash
